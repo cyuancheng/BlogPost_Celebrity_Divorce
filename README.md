@@ -1,7 +1,7 @@
 # Is a High Divorce Rate among Celebrities?
 
 - Author:  Chiyuan Cheng (cyuancheng AT gmail DOT com) 
-- Last updated: May 25, 2019
+- Last updated: May 16, 2019
 
 ## Table of Contents
 
@@ -39,7 +39,7 @@ We hear about celebrity breakups almost everyday. I'm curious about if celebriti
 
 ## Results<a name="results"></a>
 
-The main findings can be found at the [blog post](xxx) available
+The main findings can be found at the [blog post](https://medium.com/@cyuancheng/is-a-high-divorce-rate-among-celebrities-b87a9b9bdf28) available
 
 1. What is the divorce rate amongst U.S celebrities in Hollywood compared to the general U.S population?
 	* 52% divorce rate for celebrity, which is about 2 times higher than the general U.S. population
