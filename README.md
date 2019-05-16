@@ -9,7 +9,7 @@
 2. [Project Motivation](#motivation)
 3. [File Description](#files)
 4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+5. [License](#licensing)
 
 ## Installation <a name="installation"></a>
 
@@ -29,21 +29,21 @@ We hear about celebrity breakups almost everyday. I'm curious about if celebriti
 
 - **Jupyter Notebook**:  
 
-	* Gather and assess actress data: `01_get_actress_data.ipynb`
-	* Gather and access actor data: `02_get_actor_data.ipynb`
-	* Scrape and clean data: `3_Scrape_actor_actress_data.ipynb`
-	* Analyze and visualize data: `04_DataVist.ipynb`
-	* Feature enginering and prep of ML data:  `05_Prep_ML_data.ipynb`
-	* ML model: `06_ML_model_building_tuning.ipynb`
+	* `01_get_actress_data.ipynb` - Gather and assess actress data 
+	* `02_get_actor_data.ipynb` - Gather and access actor data
+	* `03_Scrape_actor_actress_data.ipynb` - Scrape and clean data
+	* `04_DataVist.ipynb` - Analyze and visualize data 
+	* `05_Prep_ML_data.ipynb` - Feature enginerring and prep of ML data 
+	* `06_ML_model_building_tuning.ipynb` - ML model 
 
 
 ## Results<a name="results"></a>
 
-The main findings can be found at the [blog post](https://medium.com/@u0509421/fifa-19-complete-player-dataset-what-can-we-tell-from-it-f7343fdad020) available
+The main findings can be found at the [blog post](xxx) available
 
 
 
-## License, Acknowledgements<a name="licensing"></a>
+## License<a name="licensing"></a>
 
 Must give credit to Udacity courses for some of code ideas, and to wikipedia for the data.
 
