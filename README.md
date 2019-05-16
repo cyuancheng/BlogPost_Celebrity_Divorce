@@ -41,6 +41,13 @@ We hear about celebrity breakups almost everyday. I'm curious about if celebriti
 
 The main findings can be found at the [blog post](xxx) available
 
+1. What is the divorce rate amongst U.S celebrities in Hollywood compared to the general U.S population?
+	* 52% divorce rate for celebrity, which is about 2 times higher than the general U.S. population
+2. How long is celebrity marriage last?
+	* The median value is 6 year in their first marriages
+3. Which feature has the most impact on celebrity divorce?
+	* Current age and the age at the first marriage. 
+
 
 
 ## License<a name="licensing"></a>
