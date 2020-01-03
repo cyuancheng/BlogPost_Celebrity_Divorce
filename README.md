@@ -5,23 +5,23 @@
 
 ## Table of Contents
 
-1. [Installation](#installation)
-2. [Project Motivation](#motivation)
+1. [Project Motivation](#motivation)
+2. [Installation](#installation)
 3. [File Description](#files)
 4. [Results](#results)
 5. [License](#licensing)
+
+## Project Motivation<a name="motivation"></a>
+
+We hear about celebrity breakups almost everyday. I'm curious about if celebrities have a higher divorce rate than the general population. If so, what is their divorce rate? How long are their marriage last? What's the key reason to drive their divorces? Is it predictable? Exploratory data analysis and machine learning were used to answer those questions.
 
 ## Installation <a name="installation"></a>
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
-## Project Motivation<a name="motivation"></a>
-
-We hear about celebrity breakups almost everyday. I'm curious about if celebrities have a higher divorce rate than the general population? If so, what is their divorce rate? How long are their marriage last? What's the key reason to drive their divorces? Is it predictable?
-
 ## File Descriptions <a name="files"></a>
 
--  **Data**:  To do so, I parsed data of Hollywood's actor and actress from the following two wikipedia websites. 
+-  **Data**:  I parsed data of Hollywood's actor and actress from the following two Wikipedia websites. 
 
    * [List of American film actresses](https://en.wikipedia.org/wiki/List_of_American_film_actresses)    
    * [American male film actors](https://en.wikipedia.org/wiki/Category:American_male_film_actors)
@@ -52,5 +52,4 @@ The main findings can be found at the [blog post](https://medium.com/@cyuancheng
 
 ## License<a name="licensing"></a>
 
-Must give credit to Udacity courses for some of code ideas, and to wikipedia for the data.
-
+I will give the credit to Udacity to inspire me to come up with this project.
